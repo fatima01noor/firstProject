@@ -21,3 +21,4 @@ app.listen(port,()=>{
     console.log('server is runnng in',port);
 });
  
+export default app;
